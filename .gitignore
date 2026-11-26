@@ -1,2 +1,14 @@
 .ipynb_checkpoints/
 clinical_note_demo_outputs/
+# Ignore all data files
+data/
+
+# Python virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# macOS system files
+.DS_Store
